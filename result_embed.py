@@ -209,10 +209,10 @@ def result():
                             "url": thumbnail_url,
                         },
                         "author": {
-                            "name": "Test Mgui - Results", 
+                            "name": "Electrify Mgui - Results", 
                             "url": "", 
                         },
-                        "color": 0x000d21,
+                        "color": FF0000,
                         "fields": [
                             {
                                 "name": "**Game Information 🎮**",
