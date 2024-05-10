@@ -189,10 +189,10 @@ def visit():
                             "url": thumbnail_url,
                         },
                         "author": {
-                            "name": "Test Mgui - Visit", 
+                            "name": "Electrify Mgui - Visit", 
                             "url": "", 
                         },
-                        "color": 0x000d21,
+                        "color": FF0000,
                         "fields": [
                             {
                                 "name": "**Game Information 🎮**",
@@ -247,7 +247,7 @@ def visit():
                             "url": thumbnail_url,
                         },
                        "author": {
-                            "name": "Test Mgui - All Visit", 
+                            "name": "Electrify Mgui - All Visit", 
                             "url": "", 
                         },
                         "color": 0x000d21,
